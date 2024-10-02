@@ -8,9 +8,3 @@ The Divvy Bikes Analysis project is a comprehensive data analysis and visualizat
 2. **Data Cleaning**: Cleaning and preprocessing the data to ensure accuracy and consistency.
 3. **Data Analysis**: Conducting statistical analysis and creating visualizations to uncover patterns and insights.
 
-# divvy_bikes_analysis
-# divvy_bikes_SQL
-# divvy_bikes_SQL
-# divvy_bikes_SQL
-# divvy_bikes_SQL
-# divvy_bikes_SQL
